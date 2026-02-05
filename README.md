@@ -19,3 +19,6 @@ This repository contains my learning projects and research on:
 
 ## Goal
 To become a Blockchain & Cybersecurity Research Analyst and contribute to security teams and Web3 companies.
+## Articles
+- Beginner’s Guide to Blockchain Security (https://medium.com/@nnamdibosah50/beginners-guide-to-blockchain-security-how-crypto-gets-hacked-f7fc388cf7b4)
+
