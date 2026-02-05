@@ -21,4 +21,6 @@ This repository contains my learning projects and research on:
 To become a Blockchain & Cybersecurity Research Analyst and contribute to security teams and Web3 companies.
 ## Articles
 - Beginner’s Guide to Blockchain Security (https://medium.com/@nnamdibosah50/beginners-guide-to-blockchain-security-how-crypto-gets-hacked-f7fc388cf7b4)
+- Case Study: How the Ronin Bridge Hack Happened, Simplified (https://medium.com/@nnamdibosah50/case-study-how-the-ronin-bridge-hack-happened-simplified-abb661244502)
+
 
